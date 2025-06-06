@@ -6,7 +6,7 @@ function App() {
 			<h1>Manifest Frontend Intern Code challenge 2025</h1>
 			<p>Show off your components here</p>
 
-			<div style={{ display: 'flex', flexDirection: 'column', gap: '25px' }}>
+			<div style={{ display: 'flex', flexDirection: 'column', gap: '25px', paddingBottom: '25px' }}>
 				{/* Mobile - Primary - Active */}
 				<Button>Continue</Button>
 
